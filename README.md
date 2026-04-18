@@ -1,6 +1,9 @@
-• ## Hi there 👋 I'm Michelle
+Hi there 👋 I'm Michelle
 
   Full-stack Software Developer based in Sydney, Australia. I build scalable, user-oriented applications with a focus on real-world impact.
+  
+  ![snake gif](https://github.com/michelleliuxing/michelleliuxing/blob/output/github-snake.svg)
+
 
   ### About Me
 
@@ -37,4 +40,3 @@
   - **My Portfolio**
     https://michelle-portfolio-tau.vercel.app/
 
-  ![snake gif](https://github.com/michelleliuxing/michelleliuxing/blob/output/github-snake.svg)
